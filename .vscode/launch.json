@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadFileTest",
+            "request": "launch",
+            "mainClass": "app.ReadFileTest",
+            "projectName": "PartyRental"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+SKU,Name,Price,Category
+CHAIR-FOLDING-PLASTIC,Folding Chair,1,chair
+CHAIR-CHIAVARI,Chiavari Chair White,2.5,chair
+TABLE-RECTANGULAR-6FT,Rectangular Table (6ft),8,table
+TABLE-RECTANGULAR-8FT,Rectangular Table (8ft),10,table
+TABLE-ROUND-5FT,Round Table (5ft),8,table
+TABLE-ROUND-6FT,Large Round Table (6ft),10,table
+TABLECLOTH-ROUND-120-WHITE,Tablecloth White Round,10,table
+TABLECLOTH-ROUND-120-PINK,Tablecloth Pink Round,12,table
+TENT-20-20,Tent 20x20,130,tent
+TENT-20-30,Tent 20x30,190,tent
+TENT-20-40,Tent 20x40,240,tent
+TENT-20-50,Tent 20x50,350,tent
+TENT-20-60,Tent 20x60,450,tent
+CONCESSION-MACHINE,Concession Machine,30,concession
+COOLER-MEDIUM,Cooler Medium with 40lb ice,25,cooler
+COLLER-LARGE,Cooler Large with 60lb ice,35,cooler
+BOUNCE-HOUSE-CASTLE,Bounce House Castle,80,bouncer
+BOUNCE-HOUSE-COMBO,Bounce House Combo,120,bouncer

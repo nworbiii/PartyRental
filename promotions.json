@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Combo #1",
+    "items": [
+      {
+        "sku": "BOUNCE-HOUSE-CASTLE",
+        "qty": 1
+      },
+      {
+        "sku": "CHAIR-FOLDING-PLASTIC",
+        "qty": 32
+      },
+      {
+        "sku": "TABLE-RECTANGULAR-6FT",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Combo #2",
+    "factor": 1,
+    "items": [
+      {
+        "sku": "BOUNCE-HOUSE-CASTLE",
+        "qty": 1
+      },
+      {
+        "sku": "CONCESSION-MACHINE",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "name": "Combo #3",
+    "factor": 0.89,
+    "items": [
+      {
+        "sku": "BOUNCE-HOUSE-CASTLE",
+        "qty": 1
+      },
+      {
+        "sku": "CONCESSION-MACHINE",
+        "qty": 1
+      },
+      {
+        "sku": "CHAIR-FOLDING-PLASTIC",
+        "qty": 32
+      },
+      {
+        "sku": "TABLE-RECTANGULAR-6FT",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Combo #4",
+    "items": [
+      {
+        "sku": "BOUNCE-HOUSE-COMBO",
+        "qty": 1
+      },
+      {
+        "sku": "CHAIR-FOLDING-PLASTIC",
+        "qty": 32
+      },
+      {
+        "sku": "TABLE-RECTANGULAR-6FT",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Combo #5",
+    "items": [
+      {
+        "sku": "TENT-20-20",
+        "qty": 1
+      },
+      {
+        "sku": "CHAIR-FOLDING-PLASTIC",
+        "qty": 32
+      },
+      {
+        "sku": "TABLE-RECTANGULAR-6FT",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Combo #6",
+    "items": [
+      {
+        "sku": "TENT-20-20",
+        "qty": 1
+      },
+      {
+        "sku": "BOUNCE-HOUSE-CASTLE",
+        "qty": 1
+      },
+      {
+        "sku": "CHAIR-FOLDING-PLASTIC",
+        "qty": 32
+      },
+      {
+        "sku": "TABLE-RECTANGULAR-6FT",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "name": "Combo #7",
+    "items": [
+      {
+        "sku": "TENT-20-30",
+        "qty": 1
+      },
+      {
+        "sku": "CHAIR-FOLDING-PLASTIC",
+        "qty": 60
+      },
+      {
+        "sku": "TABLE-ROUND-6FT",
+        "qty": 4
+      }
+    ]
+  }
+]
